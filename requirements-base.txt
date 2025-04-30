@@ -54,3 +54,4 @@ pytest-cov
 hypothesis
 nbval
 watermark
+psutil
